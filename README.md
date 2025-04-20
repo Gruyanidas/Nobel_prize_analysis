@@ -111,7 +111,7 @@ Open the notebook:
 
 ## 📃 License
 
-MIT License (or specify any license you prefer)
+MIT License
 ## ✍️ Author
 
 Created by Milos Grujic aka Gruyanidas
