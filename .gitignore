@@ -1,0 +1,31 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode, PyCharm, and Jupyter Lab settings
+.vscode/
+.idea/
+*.code-workspace
+# Environment and dependency folders
+.env
+.venv/
+venv/
+env/
+*.env
+# System files
+.DS_Store
+Thumbs.db
+# Notebook execution output (optional)
+*.out
+*.bak
+*.tmp
+
+# Hidden Jupyter runtime files
+*.pid
+.jupyter/
