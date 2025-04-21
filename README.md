@@ -43,6 +43,13 @@ The dataset includes historical data on Nobel laureates from 1901 onwards. It co
 - Heatmaps and scatter plots for geographical trends
 - Interactive visualizations with Plotly
 
+## 📈 Sample graphs
+
+![Graph1](static/sunburst.gif)
+![Graph2](static/newplot1.png)
+![Graph3](static/newplot2.png)
+![Graph4](static/newplot3.png)
+
 ## 🏁 Getting Started
 
 1. Clone the repository or download the `.ipynb` file.
