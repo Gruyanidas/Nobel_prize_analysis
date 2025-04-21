@@ -27,7 +27,6 @@ The dataset includes historical data on Nobel laureates from 1901 onwards. It co
 - Birth date and country
 - Organization affiliation
 
-(Data source details can be added here if publicly available.)
 
 ## 🔧 Technologies Used
 
@@ -119,7 +118,7 @@ Open the notebook:
 
 ## 📃 License
 
-MIT License (or specify any license you prefer)
+MIT License
 ## ✍️ Author
 
 Created by Milos Grujic aka Gruyanidas
